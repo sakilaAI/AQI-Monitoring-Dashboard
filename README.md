@@ -1,2 +1,3 @@
 # AQI-Monitoring-Dashboard
 This project presents an interactive dashboard for monitoring the Air Quality Index (AQI) across various cities in India from 2020 to 2023
+The primary objective is to provide insights into the spatial and temporal distribution of air pollutants including SO2, O3, PM2.5, and PM10. Through intuitive visualizations, this project aids stakeholders in understanding trends, identifying high-risk areas, and assessing pollutant contributions over time. The dashboard serves as a valuable tool for policymakers, environmental researchers, and the general public for air quality management and decision-making.
